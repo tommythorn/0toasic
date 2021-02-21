@@ -1,0 +1,3 @@
+[submodule "proj2.1/rgb_mixer"]
+	path = proj2.1/rgb_mixer
+	url = git@github.com:tommythorn/rgb_mixer
