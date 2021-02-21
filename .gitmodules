@@ -1,3 +1,6 @@
 [submodule "proj2.1/rgb_mixer"]
 	path = proj2.1/rgb_mixer
 	url = git@github.com:tommythorn/rgb_mixer
+[submodule "proj2.2/frequency_counter"]
+	path = proj2.2/frequency_counter
+	url = git@github.com:tommythorn/frequency_counter
