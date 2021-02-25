@@ -4,3 +4,6 @@
 [submodule "proj2.2/frequency_counter"]
 	path = proj2.2/frequency_counter
 	url = git@github.com:tommythorn/frequency_counter
+[submodule "proj3.1/formal_timer"]
+	path = proj3.1/formal_timer
+	url = git@github.com:tommythorn/formal_timer
