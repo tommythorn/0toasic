@@ -7,3 +7,6 @@
 [submodule "proj3.1/formal_timer"]
 	path = proj3.1/formal_timer
 	url = git@github.com:tommythorn/formal_timer
+[submodule "proj3.2/wrapped_rgb_mixer"]
+	path = proj3.2/wrapped_rgb_mixer
+	url = git@github.com:tommythorn/wrapped_rgb_mixer
